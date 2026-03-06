@@ -7,3 +7,12 @@ int main(int argc, char** argv) {
 
 	return 0;
 }
+
+
+/* 
+	TODO:
+		- Add support for more arithmetic operations
+		- Support functions, trigonometric functions
+		- Support variables and referencing them
+		- 
+*/
