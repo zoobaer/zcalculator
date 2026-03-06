@@ -3,4 +3,4 @@ An implementation of a simple calculator. It can evaluate expressions containing
 
 ## Demo 
 
-![demo](resources/Capture.png)
+![demo](resources/Capture.PNG)
